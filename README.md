@@ -1,5 +1,7 @@
 Arduino + LoRa + Raspberry Pi + MySQL + SocketIO + Python Flask 
 Arduino : Node & Gateway connect using LoRa Module
+
+
 Gateway connect with Raspberry Pi using USB Serial
 Parse JSON 
 Store data that already parse into MySQL database
