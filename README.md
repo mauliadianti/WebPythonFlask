@@ -13,4 +13,4 @@ pull data in database to store in web server
 
 web server build using python Flask
 
-for real time using SocketIO
+for real time monitoring data using SocketIO
